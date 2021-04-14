@@ -4,4 +4,6 @@ npm i nodemon
 
 npm i
 
+npm install styled-components --save
+
 npm start
