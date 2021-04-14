@@ -1,0 +1,13 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.unc{
+    background-color: black;
+}
+
+.principal{
+    position: relative;
+    display: flex;
+    margin-top: 5%;
+}
