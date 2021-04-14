@@ -1,4 +1,4 @@
-AVISO: caso dê erro, execute os comandos:
+AVISO: caso dê erro ao startar a aplicação, execute os comandos:
 
 npm i nodemon
 
