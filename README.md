@@ -1,3 +1,5 @@
+Modelo de página feita em react
+
 AVISO: caso dê erro ao startar a aplicação, execute os comandos:
 
 npm i nodemon
